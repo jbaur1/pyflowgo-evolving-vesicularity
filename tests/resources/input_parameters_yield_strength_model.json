@@ -1,0 +1,30 @@
+{   "effusion_rate_init" : 3,
+
+  "terrain_conditions":{
+  "width": 4.5,
+  "depth": 1.4,
+  "gravity": 9.81,
+  "slope_smoothing_active": false,
+   "slope_smoothing_number_of_points": 10,
+  "max_channel_length": 4000.0
+  },
+  "eruption_condition":{
+  "eruption_temperature" : 1387.15
+  },
+    "lava_state":{
+    "liquidus_temperature" : 1400.0,
+    "vesicle_fraction" : 0.64,
+      "density_dre" : 2970.0
+  },
+  "thermal_parameters":{
+    "buffer" : 140.0
+  },
+  "crystals_parameters":{
+    "latent_heat_of_crystallization": 350000.0
+  },
+    "relative_viscosity_parameters":{
+    "max_packing": 0.55,
+    "einstein_coef":3.27,
+    "strain_rate" : 1.0
+  }
+}
