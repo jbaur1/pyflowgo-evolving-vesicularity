@@ -9,7 +9,7 @@ PyFLOWGO is an updated version of FLOWGO written in Python 3, that is open-sourc
 **If you use PyFLOWGO please cite the following reference **:
 
 
-"Baur J., Birnbaum J., Lev E., Halverson B., ... Whittington A., (2023). Evolution and Dynamics of the Kīlauea lower East Rift Zone Fissure 8 Lava Flow. Bull. of Volcanology. (in prep - can find publication online once accepted)
+"Baur J., Birnbaum J., Lev E., Halverson B., ... Whittington A., (2023). Evolution and Dynamics of the Kīlauea lower East Rift Zone Fissure 8 Lava Flow. Bull. of Volcanology." (in prep - can find publication online once accepted)
 
 "Chevrel M.O., Labroquère J., Harris A. and Rowland S. (2018). PyFLOWGO: an open-source platform for simulation of channelized lava thermo-rheological properties. Computers and Geosciences Vol. 111. p.167–180. https://doi.org/10.1016/j.cageo.2017.11.009"
 
