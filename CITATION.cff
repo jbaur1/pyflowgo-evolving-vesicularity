@@ -10,5 +10,6 @@ authors:
 title: "pyflowgo-evolving-vesicularity"
 version: 1.0.0
 #doi: 10.5281/zenodo.1234
+[![DOI](https://zenodo.org/badge/578404979.svg)](https://zenodo.org/badge/latestdoi/578404979)
 date-released: 2022-12-14
 url: "https://github.com/jbaur1/pyflowgo-evolving-vesicularity"
